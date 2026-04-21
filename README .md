@@ -50,5 +50,5 @@ Then enter the State, District, and Year when asked.
 ## Team
 
 - Aditya Menon (Team Leader)
-- Santosh Kumar D
+- Santhosh Kumar D
 
