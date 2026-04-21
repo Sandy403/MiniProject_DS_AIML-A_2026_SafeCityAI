@@ -1,4 +1,4 @@
-afeCity AI – Crime Prediction and Hotspot Detection
+SafeCity AI – Crime Prediction and Hotspot Detection
 This project was built to analyze crime patterns across India using real crime data from 2014 to 2022. The idea was simple — instead of manually going through crime records, we wanted a system that can automatically find which areas have high crime rates and also predict future crimes.
 
 What the project does
