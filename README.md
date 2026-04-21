@@ -38,4 +38,4 @@ R² Score: 88.89%
 The model was able to correctly classify crime hotspot levels (Low/Medium/High) using K-Means
 Team
 Aditya Menon (Team Leader)
-Santosh Kumar D
+Santhosh Kumar D
