@@ -24,7 +24,7 @@ Step 3 — To make predictions, run the analysis script
 
 cd src
 python analysis.py
-Then enter the State, District, and Year when asked.
+Then enter the State, District, and year when it asked
 
 Libraries used
 pandas
